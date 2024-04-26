@@ -1,5 +1,5 @@
 # Acoustic Society International Student Challenge Problem 2023
-I worked with a team of four other students to take on the Acoustic Society 2023 Challenge Problem. The goal was to extract and analyze acoustic sensor data from three hydrophones to estimate a diver's breath rate, swimming speed, altitude, and the distance between each hydrophone.
+I worked along with four other students to take on the Acoustic Society 2023 Challenge Problem. The goal was to extract and analyze acoustic sensor data from three hydrophones to estimate a diver's breath rate, swimming speed, altitude, and the distance between each hydrophone.
 
 This repository contains my contribution to the team's collaborative effort in processing acoustic data provided by the Acoustic Society. It includes the following components:
 
